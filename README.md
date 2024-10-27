@@ -27,6 +27,6 @@ Note: This application does not include a backup database for data storage. All 
 You can access the webpage online on: https://blogdumps.onrender.com
 
 ## 📸 Visual Tour
-<img width="960" alt="Screenshot 2024-10-27 195255" src="https://github.com/user-attachments/assets/5cc43198-a63c-444c-a86a-292ab844d502">
+<img width="960" alt="BlogDumps preview" src="https://github.com/user-attachments/assets/5cc43198-a63c-444c-a86a-292ab844d502">
 
 
