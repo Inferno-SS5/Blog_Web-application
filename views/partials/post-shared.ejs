@@ -1,0 +1,23 @@
+<div class="post-shared">
+    <div class="personal-info">
+        <p><strong>First Name: </strong><%= post.firstName %></p>
+        <p><strong>Last Name: </strong><%= post.lastName %></p>
+        <p><strong>Username: </strong><%= post.userName %></p>
+    </div>
+    <div class="message-box">
+        <p><%= post.msg %></p>
+    </div>
+    <div class="timestamp-box">
+        <p><strong>Posted at: </strong><%= post.timestamp %></p>
+    </div>
+    <div class="btn-box">
+        <form action="/delete" method="POST" style="display: inline;">
+            <input type="hidden" name="id" value="<%= post.id %>">
+            <button type="submit">Delete</button>
+        </form>
+        <form action="/edit" method="GET" style="display: inline;">
+            <input type="hidden" name="id" value="<%= post.id %>">
+            <button type="submit">Edit</button>
+        </form>        
+    </div>
+</div>
