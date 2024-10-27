@@ -25,3 +25,5 @@ Note: This application does not include a backup database for data storage. All 
 
 ## 🔗 Live Demo
 You can access the webpage online on: https://blogdumps.onrender.com
+
+## 📸 Visual Tour
