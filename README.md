@@ -13,15 +13,15 @@ Note: This application does not include a backup database for data storage. All 
 
 
 ## Installation
-1. Clone the Repository: git clone https://github.com/YOUR_GITHUB_USERNAME/blog-web-application.git
+1. Clone the Repository: https://github.com/Inferno-SS5/Blog_Web-application.git
 
 2. Navigate to the Project Directory.
 
 3. Install Dependencies: npm install
 
-4. Run the Application: nodemon index.js
+4. Run the Application: nodemon index.js/node index.js
 
 5. Open your browser and navigate to: http://localhost:3000
 
 ## 🔗 Live Demo
-You can access the webpage online on: 
+You can access the webpage online on: https://blogdumps.onrender.com
