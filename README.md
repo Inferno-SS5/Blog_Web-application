@@ -13,7 +13,7 @@ Note: This application does not include a backup database for data storage. All 
 
 
 ## Installation
-1. Clone the Repository: https://github.com/Inferno-SS5/Blog_Web-application.git
+1. Clone the Repository.
 
 2. Navigate to the Project Directory.
 
